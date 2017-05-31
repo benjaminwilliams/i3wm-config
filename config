@@ -10,6 +10,10 @@ hide_edge_borders both
 # Force xrdb to run (for colors in terminal)
 exec xrdb ~/.Xresources
 exec monall
+
+# set key repeat rate
+exec xset r rate 350 50
+
 # End Bens custom stuff
 
 
